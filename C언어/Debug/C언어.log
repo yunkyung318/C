@@ -1,0 +1,5 @@
+﻿  17-7.c
+c:\users\dbsru\source\repos\c언어\c언어\17-7.c(36): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+c:\users\dbsru\source\repos\c언어\c언어\17-7.c(41): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+c:\users\dbsru\source\repos\c언어\c언어\17-7.c(51): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+  C언어.vcxproj -> C:\Users\dbsru\source\repos\C언어\Debug\C언어.exe
